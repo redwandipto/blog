@@ -5,7 +5,7 @@ description: >
   A brief explanation of Anselm’s Ontological Argument on existence of God.
 tags: [Philosophy]
 author: author1
-canonical_url: http://redwanidpto.github/2017/11/29/Does-God-exist-or-not/
+canonical_url: http://redwanidpto.github.io/2017/11/29/Does-God-exist-or-not/
 ---
 
 **God exist or not ?** It is one of the fundamental questions of **Philosophy**. Many people have strong views about God and whether God exist. In case of such issues like, God and existence of God, thoughts of people are emotionally driven, hence they are politicized. That is why we cannot think about it clearly. But Philosophy is all about trying to think clearly about issues that are often highly politicized and emotional. So it would be better to have a proof on the existence of God.
