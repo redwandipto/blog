@@ -29,4 +29,4 @@ Anyway, If Anselm’s Ontological argument was true then we can prove the existe
 
 Superman is a fictional character from DC Comics, which exist in our understanding. Whether you were introduced to superman from comics or from Hollywood movie series, you may already know he is one of the ( or Only one .. Have you watched **Justice League** ? ) mightiest one from all other comic Superheroes. Now if he also exist in reality, what would be the situation ? He would have greater value than when he only exist in our understanding. But how is it possible ? We have already claimed He is one of the mightiest one or arguably the mightiest from all other Superheroes, then it is not logically possible to exist only in our understanding, He must also exist in our reality.
 
-Now when we have proved Superman exist, Question arises who is that mighty guy, right ? Simple It’s me, atleast I love to think So ! [ :stuck_out_tongue_winking_eye: ]
+Now when we have proved Superman exist, Question arises who is that mighty guy, right ? Simple It’s me, atleast I love to think So ! :stuck_out_tongue_winking_eye:
