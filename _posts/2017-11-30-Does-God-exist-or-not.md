@@ -17,7 +17,7 @@ His first idea was on **what actually God is or what it means to be God**.
 According to Anselm
 >God is something than that which no greater can be thought.
 
-What it means that when we think about God, we are thinking of a maximally good thing, a thing such that no better cannot be thought.
+What it means that when we think about God, we are thinking of a maximally good thing, a thing such that no better can be thought.
 
 His second idea was on **the existence and non existence of God**. According to Anselm there are things that exist in our understanding (**e.g.** Tooth Fairy). The things that we can think of. And there are things that exist in reality (**e.g.** Computer). There maybe some intersections between our understanding and reality. That means there are things that exist both in reality and in our understanding.
 
