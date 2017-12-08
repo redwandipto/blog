@@ -7,6 +7,8 @@ tags: [Machine Learning]
 author: author1
 canonical_url: http://redwanidpto.github.io/2017/11/29/Just-Another-Post/
 ---
+
+
 ### What is Decision Tree ?
 
 Decision Tree is a $$Supervised \ learning \ algorithm$$ ( [Types of Machine Learning](https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861) ) . As its name suggests, it helps a machine to make decisions or to be more specific it helps to make predictions based on training data. There are mainly $$two$$ types of Decision Tree,
