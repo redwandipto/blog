@@ -2,7 +2,7 @@
 layout: post
 title: Machine Learning:Decision Tree.
 description: >
-  Explanaion of what Decision Tree is and How to build A classification Tree.
+  A brief explanaion of what Decision Tree is and how to build a Classification Tree.
 tags: [Machine Learning]
 author: author1
 canonical_url: http://redwanidpto.github.io/2017/11/29/Just-Another-Post/
@@ -30,7 +30,7 @@ In this post our $$main \ focus$$ will be building a  $$Classification \ Tree$$.
 
 There are three attributes in this table Genre,  Rating, and Release Year. To make the Rating and Release year categorical we used binary split. Movies with Rating less than $$6.0$$ falls into one category and greater than or equal $$6.0$$ fall into another category. Movies with Release Year less than $$2000$$ falls into one category and greater than or equal $$2000$$ fall into another category
 
-And we have two class for preference, either we like it ( $$YES$$ ), or Dislike it ($$ NO$$ )
+And we have two class for preference, either we will watch it ( $$YES$$ ), or won't ($$ NO$$ )
 
 | Genre     | Rating  | Release Year  | Class  |
 | :-------- | ------: | :-----------: |:------:|
@@ -52,6 +52,10 @@ From this table we can build our decision tree like this,
 
 
 There can be multiple valid decision tree for this data set. But which decision tree is better ? This depends on which attribute we choose to build our decision tree at each level. Maybe its hard to see the difference between trees built by choosing different attributes at different level of the tree but in large examples it makes a huge difference.
+
+Lets consider a movie which is from $$Action$$ Genre with rating $$7.2$$ released in year $$1998$$, what will be the preference ?
+
+Now we can use our decision tree to predict what will be our preference class, and we can clearly see that our preference will be $$NO$$.
 
 Choosing the best attribute at each level of the decision tree is important. Because this is what will determine how accurately the decision tree is going $$classify$$ the test object. Now question arises `How to choose best attribute?` Attributes with homogeneous class distribution is preferred. The more homogeneous the attribute is the more preferable it is. There are several techniques to choose homogeneous attributes.
 
