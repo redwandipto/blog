@@ -51,7 +51,7 @@ From this table we can build our decision tree like this,
 ![Decision Tree](https://raw.githubusercontent.com/redwandipto/Images/master/PostImage/dTree.jpg)
 
 
-There can be multiple valid decision tree for this data set. But which decision tree is the better ? This depends on which attribute we choose to build our decision tree at each level. Maybe its hard to see the difference between trees built by choosing different attributes at different level of the tree but in large examples it makes a huge difference.
+There can be multiple valid decision tree for this data set. But which decision tree is better ? This depends on which attribute we choose to build our decision tree at each level. Maybe its hard to see the difference between trees built by choosing different attributes at different level of the tree but in large examples it makes a huge difference.
 
 Choosing the best attribute at each level of the decision tree is important. Because this is what will determine how accurately the decision tree is going $$classify$$ the test object. Now question arises `How to choose best attribute?` Attributes with homogeneous class distribution is preferred. The more homogeneous the attribute is the more preferable it is. There are several techniques to choose homogeneous attributes.
 
@@ -83,7 +83,7 @@ $$
 \end{aligned}
 $$
 
-Doesn't make any sense ? Okay Let's have a look on the below picture.
+Doesn't make any sense ? Okay Let's have a look on this picture.
 
 ![Entropy](https://raw.githubusercontent.com/redwandipto/Images/master/PostImage/entropy.png)
 
