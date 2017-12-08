@@ -9,7 +9,7 @@ canonical_url: http://redwanidpto.github.io/2017/11/29/Just-Another-Post/
 ---
 
 
-### What is Decision Tree ?
+#### What is Decision Tree ?
 
 Decision Tree is a $$Supervised \ learning \ algorithm$$ ( [Types of Machine Learning](https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861) ) . As its name suggests, it helps a machine to make decisions or to be more specific it helps to make predictions based on training data. There are mainly $$two$$ types of Decision Tree,
 
@@ -134,7 +134,7 @@ We can build a $$Randomized \ Decision \ Tree$$ by choosing the $$attribute$$ ra
 
 **Notes:**
 
-There is a problem with thess kind of learning algorithms, which is $$Data \ Overfitting$$.
+There is a problem with these kind of learning algorithms, which is $$Data \ Overfitting$$.
 
 #### What is Data Overfitting ?
 > Overfitting happens when a model learns the detail and noise in the training data to the extent that it negatively impacts the performance of the model on new data. This means that the noise or random fluctuations in the training data is picked up and learned as concepts by the model. The problem is that these concepts do not apply to new data and negatively impact the models ability to generalize. [Reference](https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/)  
