@@ -55,7 +55,7 @@ There can be multiple valid decision tree for this data set. But which decision 
 
 Lets consider a movie which is from $$Action$$ Genre with rating $$7.2$$ released in year $$1998$$, what will be the preference ?
 
-Now we can use our decision tree to predict what will be our preference class, and we can clearly see that our preference will be $$NO$$.
+Now we can use our decision tree to predict what will be our preference class, and we can clearly see that our preference will be $$YES$$.
 
 Choosing the best attribute at each level of the decision tree is important. Because this is what will determine how accurately the decision tree is going $$classify$$ the test object. Now question arises `How to choose best attribute?` Attributes with homogeneous class distribution is preferred. The more homogeneous the attribute is the more preferable it is. There are several techniques to choose homogeneous attributes.
 
