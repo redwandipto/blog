@@ -40,6 +40,7 @@
 }
 
 html {
+  text-align: justify;
   @media screen and (min-width: $break-point-1) {
     font-size: $root-font-size-medium;
   }
