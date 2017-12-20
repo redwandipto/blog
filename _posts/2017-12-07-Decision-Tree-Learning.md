@@ -55,7 +55,13 @@ There can be multiple valid decision tree for this data set. But which decision 
 
 Lets consider a movie which is from $$Action$$ Genre with rating $$7.2$$ released in year $$1998$$, what will be the preference ?
 
-Now we can use our decision tree to predict what will be our preference class, and we can clearly see that our preference will be $$YES$$.
+Now we can use our decision tree to predict what will be our preference class, and we can clearly see that our preference class will be $$YES$$ ( we are going watch this movie ).
+
+At this point the question is `how to build a such decision tree` which will efficiently help us to determine the class of our test object. If you look on the above figure, you will notice that like other Trees this one also contains some node at each level. At each level every node will be an $$Attribute$$ (except leaf nodes). And every leaf node contains a $$decision$$. A $$Good Decision Tree$$ contains nodes with best attribute at each level.
+
+$$What do we mean by best attribute ?$$
+
+>It means the attribute which will lead to the most accurate decision as soon as possible among all other attributes we have in our current situation.
 
 Choosing the best attribute at each level of the decision tree is important. Because this is what will determine how accurately the decision tree is going $$classify$$ the test object. Now question arises `How to choose best attribute?` Attributes with homogeneous class distribution is preferred. The more homogeneous the attribute is the more preferable it is. There are several techniques to choose homogeneous attributes.
 
@@ -77,9 +83,9 @@ $$
 
 where $${P_i}$$ is the probability of occurrence of the $$i^{th}$$ possible value of the source symbol. In simple words $$Entropy$$ means how much $$noise$$ the data has. For example if we have $$N$$ number of Labels $$( l_1, l_2, ....., l_N )$$ in our data set. $$K_1$$ examples has class label of $$l_1$$, $$K_2$$ examples has class label of $$l_2$$ and so on. In general $$K_i$$ examples has $$l_i$$ class labels.
 
-$$So, K = K_1 + K_2 + K_3 + .... + K_N$$,
+$$Here, K = K_1 + K_2 + K_3 + .... + K_N$$,
 
-$$Here, P_1 = \frac{K_1} {K}, P_2 = \frac{K_2} { K }, ....., P_i = \frac{K_i}{ K}$$;
+$$So, P_1 = \frac{K_1} {K}, P_2 = \frac{K_2} { K }, ....., P_i = \frac{K_i}{ K}$$;
 
 $$
 \begin{aligned}
