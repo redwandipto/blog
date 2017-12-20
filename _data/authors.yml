@@ -8,9 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hello there ! I am Redwan, Studying Computer Science & Engineering at North South University.
-    I am passionate about programming and love to learn new technologies. Data Structures, Algorithms,
-    Artificial Intelligence, Machine learning, these are the fields of my interest.
+    Hello there ! I am Redwan, Studying Computer Science & Engineering **at** [North South University](http://www.northsouth.edu/).
+    Programming, new technologies, Linux are the things I love to play with. And Philosophy, AI, Machine learning, Neural Network these are the fields of my interest.
 
   # This photo will be used in the about section
   picture:
