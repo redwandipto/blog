@@ -145,7 +145,7 @@ There is a problem with these kind of learning algorithms, which is $$Data \ Ove
 
 We can overcome this problem by introducing a new technique called $$pruning$$. Typically $$leaf \ nodes$$ contains very few examples, which are not reliable. The distribution of classes among those few example may depend on luck than on any pattern among training examples. So, we will $$prune$$ those leaf nodes, which are not reliable.  
 
-Here is Link of my Implementation of Decision Tree in C++. [Source Code](https://en.wikipedia.org/wiki/Decision_tree_learning)
+Here is Link of my Implementation of Decision Tree in C++. [Source Code](https://github.com/redwandipto/MachineLearning/tree/master/DecisionTree)
 
 Thanks for reading this long post. 😜 There might be a lot of mistakes in this article whether grammatical or conceptual, make sure to Cross check all the informations I have given. This was just a **Personal Note** though.
 
