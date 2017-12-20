@@ -60,7 +60,7 @@ Now we can use our decision tree to predict what will be our preference class, a
 At this point the question is `how to build a such decision tree` which will efficiently help us to determine the class of our test object. If you look on the above figure, you will notice that like other Trees this one also contains some node at each level. At each level every node will be an $$Attribute$$ (except leaf nodes). And every leaf node contains a $$decision$$. A $$Good Decision Tree$$ contains nodes with best attribute at each level.
 
 $$What \ do \ we \ mean \ by \ best \ attribute?$$
->It means the attribute which will lead to the most accurate decision as soon as possible among all other attributes we have in our current situation.
+>It means the attribute which will lead to the most accurate decision asap among all other attributes we have in our current situation.
 
 Choosing the best attribute at each level of the decision tree is important. Because this is what will determine how accurately the decision tree is going $$classify$$ the test object. Now question arises `How to choose best attribute?` Attributes with homogeneous class distribution is preferred. The more homogeneous the attribute is the more preferable it is. There are several techniques to choose homogeneous attributes.
 
